@@ -1,7 +1,7 @@
 # Movies-Recommendor-System
 --> run Anomaly.m to run this script on your octave terminal to implement an anomaly detection algorithm to detect
 anomalous behavior in server computers.The features measure the through- put (mb/s) and latency (ms) of response of each server. While your servers were operating, you collected m = 307 examples of how they were behaving, and thus have an unlabeled dataset {x (1) , . . . , x (m) }. You suspect that the vast majority of these examples are “normal” (non-anomalous) examples of the servers operating normally, but there might also be some examples of servers acting anomalously within this dataset.
---> run Anomaly.m to run this script on your octave terminal to implement the collaborative filtering
+--> run recommendor.m to run this script on your octave terminal to implement the collaborative filtering
 learning algorithm and apply it to a dataset of movie ratings.This dataset consists of ratings on a scale of 1 to 5. The dataset has n(u) = 943 users, and n(m) = 1682 movies.
 
 
